@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "456772741207",
+    "project_id": "aiflow-eddie",
+    "storage_bucket": "aiflow-eddie.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:456772741207:android:18ae27e1747866f4f29b12",
+        "android_client_info": {
+          "package_name": "com.eddie.app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbfgEGXyxjfbGr6mE-NUa1153GJNwFXA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

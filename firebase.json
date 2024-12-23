@@ -1,0 +1,26 @@
+{
+    "flutter": {
+      "platforms": {
+        "android": {
+          "default": {
+            "projectId": "aiflow-eddie",
+            "appId": "1:456772741207:android:18ae27e1747866f4f29b12",
+            "fileOutput": "android/app/google-services.json"
+          }
+        },
+        "dart": {
+          "lib/firebase_options.dart": {
+            "projectId": "aiflow-eddie",
+            "configurations": {
+              "android": "1:456772741207:android:18ae27e1747866f4f29b12",
+              "ios": "1:456772741207:ios:4515c78afcb8fd69f29b12",
+              "macos": "1:456772741207:ios:4515c78afcb8fd69f29b12",
+              "web": "1:456772741207:web:feae8ec6b56778e1f29b12",
+              "windows": "1:456772741207:web:f5b184a7fbe56669f29b12"
+            }
+          }
+        }
+      }
+    }
+  }
+  
